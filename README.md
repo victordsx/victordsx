@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Victor
+# 👋 Olá! Eu sou o Victor Dias
 
 Sou estudante de **Ciência da Computação** na Universidade Católica de Brasília (UCB), com interesse em **Análise de Dados**.  
 Atualmente estou focado em desenvolver base sólida em **Excel**, além de estudar **SQL, Power BI e Python** para aplicação prática em projetos de dados.
